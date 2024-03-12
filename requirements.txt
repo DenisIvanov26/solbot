@@ -1,2 +1,4 @@
-beautifulsoup4==4.9.3
-requests==2.25.1
+scrapy==2.5.0
+scrapy-playwright==0.0.3
+playwright==1.11.1
+twisted==21.2.0
